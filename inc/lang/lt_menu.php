@@ -1,8 +1,8 @@
 <?php
-$lang['menu']['uzs'] = '';
-$lang['menu']['uzs_new'] = '';
-$lang['menu']['uzs_new_int'] = '';
-$lang['menu']['uzs_list'] = '';
+$lang['menu']['uzs'] = 'Paklausk vairuotojo';
+$lang['menu']['uzs_new'] = 'Naujas i6kvietimas';
+$lang['menu']['uzs_new_int'] = 'Naujas tarptautinis iškvietimas';
+$lang['menu']['uzs_list'] = 'Iškvietimu peržiūra';
 $lang['menu']['uzs_import'] = '';
 $lang['menu']['uzsn_new'] = '';
 $lang['menu']['uzsn_list'] = '';
