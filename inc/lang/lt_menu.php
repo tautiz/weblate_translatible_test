@@ -1,9 +1,9 @@
 <?php
 $lang['menu']['uzs'] = 'Paklausk vairuotojo';
-$lang['menu']['uzs_new'] = 'Naujas i6kvietimas';
+$lang['menu']['uzs_new'] = 'Naujas iškvietimas';
 $lang['menu']['uzs_new_int'] = 'Naujas tarptautinis iškvietimas';
 $lang['menu']['uzs_list'] = 'Iškvietimu peržiūra';
-$lang['menu']['uzs_import'] = 'Iškvietimu importas';
+$lang['menu']['uzs_import'] = 'Iterpti iskvietimo duomenis';
 $lang['menu']['uzsn_new'] = 'New&nbsp;regular&nbsp;order';
 $lang['menu']['uzsn_list'] = 'View&nbsp;regular&nbsp;orders';
 $lang['menu']['siunt'] = 'Register&nbsp;shipments';
