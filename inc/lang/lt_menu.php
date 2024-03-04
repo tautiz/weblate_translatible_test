@@ -1,4 +1,7 @@
 <?php
+
+require('failas.php');
+
 $lang['menu']['uzs'] = 'Paklausk vairuotojo';
 $lang['menu']['uzs_new'] = 'Naujas iškvietimas';
 $lang['menu']['uzs_new_int'] = 'Naujas tarptautinis iškvietimas';
