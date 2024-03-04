@@ -69,3 +69,4 @@ $lang['kl']['td_cont_t'] = 'Phone';
 $lang['kl']['td_cont_p2'] = 'Cont.person';
 $lang['kl']['td_cont_t2'] = 'Cont.phone';
 $lang['test']['test'] = 'This is test';
+$lang['bandymas']['test'] = 'Testing';
