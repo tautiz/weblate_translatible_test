@@ -1,6 +1,6 @@
 <?php
-$lang['menu']['uzs'] = 'Paklausk <b>vairuotojo</b><br>';
-$lang['menu']['uzs_new'] = 'Naujas iškvietimas';
+$lang['menu']['uzs'] = 'Paklausk <b>"vairuotojo\'</b><br>';
+$lang['menu']['uzs_new'] = 'Naujas iškvietimas<?php';
 $lang['menu']['uzs_new_int'] = 'Naujas tarptautinis iškvietimas';
 $lang['menu']['uzs_list'] = 'Iškvietimu peržiūra';
 $lang['menu']['uzs_import'] = 'Iterpti iskvietimo duomenis';
