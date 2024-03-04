@@ -1,7 +1,4 @@
 <?php
-
-require('failas.php');
-
 $lang['menu']['uzs'] = 'Paklausk vairuotojo';
 $lang['menu']['uzs_new'] = 'Naujas iškvietimas';
 $lang['menu']['uzs_new_int'] = 'Naujas tarptautinis iškvietimas';
@@ -9,7 +6,7 @@ $lang['menu']['uzs_list'] = 'Iškvietimu peržiūra';
 $lang['menu']['uzs_import'] = 'Iterpti iskvietimo duomenis';
 $lang['menu']['uzsn_new'] = 'Naujas standartinis siuntimas';
 $lang['menu']['uzsn_list'] = 'Perziureti uzsakyma';
-$lang['menu']['siunt'] = 'Register&nbsp;shipments';
+$lang['menu']['siunt'] = 'Naujas uzkymas';
 $lang['menu']['manifest_add'] = 'New&nbsp;shipment&nbsp;list';
 $lang['menu']['manifest'] = 'View&nbsp;the&nbsp;shipment&nbsp;lists';
 $lang['menu']['import'] = 'Import&nbsp;shipment&nbsp;data';
